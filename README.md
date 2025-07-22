@@ -78,6 +78,7 @@
     .social-icons img {
       width: 65px;
       height: 65px;
+      opasity: 50%;
       transition: transform 0.3s ease;
     }
 
