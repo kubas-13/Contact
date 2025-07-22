@@ -122,13 +122,13 @@
 
     <div class="social-icons">
       <a href="mailto:mantas.kru.2@gmail.com" target="_blank">
-        <img src="[Gmail.png]" alt="Gmail">
+        <img src="Photos/Gmail.png" alt="Gmail">
       </a>
       <a href="https://www.facebook.com/profile.php?id=100009086828868" target="_blank">
-        <img src="https://github.com/kubas-13/mantaskrutulis.github.io/blob/main/Photos/Facebook.png" alt="Facebook">
+        <img src="Photos/Facebook.png" alt="Facebook">
       </a>
       <a href="https://www.youtube.com/@CubeDev-q9j" target="_blank">
-        <img src="https://github.com/kubas-13/mantaskrutulis.github.io/blob/main/Photos/youtube.png" alt="YouTube">
+        <img src="Photos/youtube.png" alt="YouTube">
       </a>
     </div>
   </section>
