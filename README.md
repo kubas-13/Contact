@@ -128,7 +128,7 @@
         <img src="[Facebook.png](https://github.com/kubas-13/mantaskrutulis.github.io/blob/main/Photos/Facebook.png)" alt="Facebook">
       </a>
       <a href="https://www.youtube.com/@CubeDev-q9j" target="_blank">
-        <img src="Photos/youtube.png" alt="YouTube">
+        <img src="https://github.com/kubas-13/mantaskrutulis.github.io/blob/main/Photos/youtube.png" alt="YouTube">
       </a>
     </div>
   </section>
